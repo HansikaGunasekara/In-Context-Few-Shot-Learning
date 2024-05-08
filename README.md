@@ -1,6 +1,8 @@
 # In-Context-Few-Shot-Learning
 **This is to study how prompting will Revolutionise Automation Workflows in Finance**
 
+Here I have replicated the prompt based approach discussed in the paper associated with **CONVFINQA** dataset.
+
 I use **GPT-3.5-turbo-0125** model to experiment the prompting based approach on CONVFINQA. Analyzed over 6 different instances in the **train.json** with different number of examples for zero shot learning presents the following model reasoning & answering.
 
 ![Screenshot 2024-05-08 at 3 37 54 PM](https://github.com/HansikaGunasekara/In-Context-Few-Shot-Learning/assets/18283131/49216884-7de8-4720-a2b5-0a38803d7f97)
